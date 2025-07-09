@@ -1,0 +1,59 @@
+
+body > * {
+    max-width:1614px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #000;
+}
+header .logo {}
+header .logo a img {}
+header .menu {}
+header .menu .right_menu {
+    display: flex;
+    gap:55px;
+}
+header .menu .right_menu li {}
+header .menu .right_menu li img {}
+main .container {
+    max-width: 1294px;
+    margin: 0 auto;
+}
+main .container h1 {
+    text-align: center;
+    font-size:3.563rem;
+    margin-top:119px;
+    margin-bottom:87px;
+   
+}
+main .container .news_info {
+    display: flex;
+    align-items: center;
+    gap:19px;
+    margin-bottom:106px ;
+}
+main .container .news_info a {}
+main .container .news_info a img {}
+main .container .news_info span {}
+main .container .news_info #Subscription {
+    border:1px solid #000;
+    padding:3px 10px;
+    border-radius:30px;
+}
+main .container .container_wrap {}
+main .container .container_wrap .left_right {
+    display: flex;
+    gap:19px;
+}
+main .container .container_wrap .left_right .card {}
+main .container .container_wrap .left_right .card img {}
+main .container .container_wrap .left_right .card h1 {}
+main .container .container_wrap .left_right .card p {}
+main .container .container_wrap .bottom_wrap {}
+main .container .container_wrap .bottom_wrap .card {}
+main .container .container_wrap .bottom_wrap .card img{}
+main .container .container_wrap .bottom_wrap .card p{}
+main .container .container_wrap .bottom_wrap .card h2{}
